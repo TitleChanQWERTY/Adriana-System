@@ -14,10 +14,14 @@ Enter Command: java -jar adriana.system.jar
 PLAY!
 
 
+
 How To Play
 
 1: 
 To perform an action, you need to use the number keys on your keyboard.
+
+
+
 
 Game Terms
 
