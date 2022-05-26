@@ -32,4 +32,4 @@ If you decide to run and you have less than fifty health, then it will be replen
 If you choose to stand, you will take damage but attack harder.
 
 
-
+![Image alt](https://github.com/TitleChanQWERTY/Adriana-System/blob/main/screenshot/1.png)
